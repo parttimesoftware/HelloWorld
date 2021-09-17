@@ -1,6 +1,6 @@
 # Test Project
 
-## Things that need fixed.
+## Things that need to be fixed.
  * Actual Code
  * Useful README.
  * Build CI/CD pipeline
